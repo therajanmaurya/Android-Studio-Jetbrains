@@ -1,9 +1,0 @@
-<application>
-  <component name="FindSettings">
-    <option name="customScope" value="File '/home/rajan/AndroidStudioProjects/android-client/mifosng-android/src/main/java/com/mifos/mifosxdroid/online/grouplist/GroupListFragment.java'" />
-    <option name="defaultScopeName" value="File '/home/rajan/AndroidStudioProjects/android-client/mifosng-android/src/main/java/com/mifos/mifosxdroid/online/grouplist/GroupListFragment.java'" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '/home/rajan/AndroidStudioProjects/android-client/mifosng-android/src/main/java/com/mifos/mifosxdroid/online/grouplist/GroupListFragment.java'" />
-  </component>
-</application>
